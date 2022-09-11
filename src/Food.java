@@ -1,5 +1,5 @@
 public class Food {
     public  void eat(){
-        //TODO
+        System.out.println("Yummi food");
     }
 }
